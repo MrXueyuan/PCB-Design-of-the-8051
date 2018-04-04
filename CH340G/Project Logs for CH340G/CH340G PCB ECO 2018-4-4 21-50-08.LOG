@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetJ0_2 Pin=J0-2
+Added Pin To Net: NetName=NetJ0_2 Pin=U1-2
+Added Net: Name=NetJ0_2
+Added Pin To Net: NetName=NetJ0_3 Pin=J0-3
+Added Pin To Net: NetName=NetJ0_3 Pin=U1-3
+Added Net: Name=NetJ0_3
+Added Room: Name=CH340G
