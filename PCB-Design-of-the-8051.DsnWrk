@@ -1,4 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=CH340G\CH340G.PrjPCB
+ProjectPath=3144E_UsePCBDesign\3144E_UsePCBDesign.PrjPCB
+[Project2]
+ProjectPath=School_Design\51µ¥Æ¬»ú24.PrjPcb

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=U1 Old Footprint=TO-92A New Footprint=HDR1X3
+Change Component Footprint: Designator=Q1 Old Footprint=TO-92A New Footprint=sanjiguan
+Change Component Footprint: Designator=Q3 Old Footprint=TO-92A New Footprint=sanjiguan
+Change Component Footprint: Designator=Q5 Old Footprint=TO-92A New Footprint=sanjiguan
+Added Room: Name=51µ¥Æ¬»ú24

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=P20 Pin=R31-1
+Removed Pin From Net: NetName=P21 Pin=R32-1
+Removed Pin From Net: NetName=P22 Pin=R33-1
+Removed Pin From Net: NetName=P23 Pin=R34-1
+Removed Pin From Net: NetName=P24 Pin=R35-1
+Removed Pin From Net: NetName=P25 Pin=R36-1
+Removed Pin From Net: NetName=P26 Pin=R37-1
+Removed Pin From Net: NetName=P27 Pin=R38-1
+Change Component Comment : Designator=J2 Old Comment=J2 New Comment=JJ
+Added Pin To Net: NetName=P31T Pin=J2-2
+Added Pin To Net: NetName=P00 Pin=R31-1
+Added Pin To Net: NetName=P01 Pin=R32-1
+Added Pin To Net: NetName=P02 Pin=R33-1
+Added Pin To Net: NetName=P04 Pin=R35-1
+Added Pin To Net: NetName=P05 Pin=R36-1
+Added Pin To Net: NetName=P06 Pin=R37-1
+Added Pin To Net: NetName=P07 Pin=R38-1
+Change Net Name : Old Net Name=NetJLED_5 New Net Name=NetJLED_2
+Change Net Name : Old Net Name=NetJSM_5 New Net Name=NetJSM_2
+Change Net Name : Old Net Name=NetR34_2 New Net Name=Net03_2
+Added Room: Name=51µ¥Æ¬»ú24

@@ -1,0 +1,21 @@
+Added Component: Designator=P0(j19)
+Added Pin To Net: NetName=P00 Pin=P0-1
+Added Pin To Net: NetName=P01 Pin=P0-2
+Added Pin To Net: NetName=P02 Pin=P0-3
+Added Pin To Net: NetName=P03 Pin=P0-4
+Added Pin To Net: NetName=P04 Pin=P0-5
+Added Pin To Net: NetName=P05 Pin=P0-6
+Added Pin To Net: NetName=P06 Pin=P0-7
+Added Pin To Net: NetName=P07 Pin=P0-8
+Added Pin To Net: NetName=PEA Pin=P0-9
+Added Pin To Net: NetName=ALE Pin=P0-10
+Added Pin To Net: NetName=PSEN Pin=P0-11
+Added Pin To Net: NetName=P27 Pin=P0-12
+Added Pin To Net: NetName=P26 Pin=P0-13
+Added Pin To Net: NetName=P25 Pin=P0-14
+Added Pin To Net: NetName=P24 Pin=P0-15
+Added Pin To Net: NetName=P23 Pin=P0-16
+Added Pin To Net: NetName=P22 Pin=P0-17
+Added Pin To Net: NetName=P21 Pin=P0-18
+Added Pin To Net: NetName=P20 Pin=P0-19
+Added Member To Class: ClassName=51µ¥Æ¬»ú24 Member=Component P0 P2

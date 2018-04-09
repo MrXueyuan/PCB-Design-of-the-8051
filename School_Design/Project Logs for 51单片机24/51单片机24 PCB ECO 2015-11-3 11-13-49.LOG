@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=51单片机24 Member=D1
+Added Pin To Net: NetName=NetS1_1 Pin=S1-1
+Added Pin To Net: NetName=NetS1_1 Pin=USB-1
+Added Net: Name=NetS1_1
+Added Room: Name=51单片机24

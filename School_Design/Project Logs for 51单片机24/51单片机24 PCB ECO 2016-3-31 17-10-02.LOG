@@ -1,0 +1,62 @@
+Change Component Designator: OldDesignator=4148 NewDesignator=D4
+Added Component: Designator=C6(RAD-0.3)
+Added Component: Designator=P3(HDR1X16)
+Added Component: Designator=P4(HDR1X3)
+Added Component: Designator=P5(HDR1X3)
+Added Component: Designator=R43(axial0.4)
+Added Component: Designator=R44(AXIAL-0.4)
+Added Component: Designator=R45(AXIAL-0.4)
+Added Component: Designator=RW1(VR3)
+Added Component: Designator=U2(DIP8)
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=C6-2
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=VCC Pin=P3-2
+Added Pin To Net: NetName=P10 Pin=P3-4
+Added Pin To Net: NetName=P11 Pin=P3-5
+Added Pin To Net: NetName=P12 Pin=P3-6
+Added Pin To Net: NetName=P00 Pin=P3-7
+Added Pin To Net: NetName=P01 Pin=P3-8
+Added Pin To Net: NetName=P02 Pin=P3-9
+Added Pin To Net: NetName=P03 Pin=P3-10
+Added Pin To Net: NetName=P04 Pin=P3-11
+Added Pin To Net: NetName=P05 Pin=P3-12
+Added Pin To Net: NetName=P06 Pin=P3-13
+Added Pin To Net: NetName=P07 Pin=P3-14
+Added Pin To Net: NetName=VCC Pin=P3-15
+Added Pin To Net: NetName=GND Pin=P3-16
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=P32 Pin=P4-2
+Added Pin To Net: NetName=VCC Pin=P4-3
+Added Pin To Net: NetName=P33 Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=VCC Pin=P5-3
+Added Pin To Net: NetName=P32 Pin=R43-1
+Added Pin To Net: NetName=VCC Pin=R43-2
+Added Pin To Net: NetName=P16 Pin=R44-1
+Added Pin To Net: NetName=VCC Pin=R44-2
+Added Pin To Net: NetName=P17 Pin=R45-1
+Added Pin To Net: NetName=VCC Pin=R45-2
+Added Pin To Net: NetName=GND Pin=RW1-1
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=P17 Pin=U2-5
+Added Pin To Net: NetName=P16 Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=VCC Pin=U2-8
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_3 Pin=RW1-2
+Added Pin To Net: NetName=NetP3_3 Pin=RW1-3
+Added Net: Name=NetP3_3
+Added Member To Class: ClassName=51单片机24 Member=Component C6 Cap
+Added Member To Class: ClassName=51单片机24 Member=Component P3 Header 16
+Added Member To Class: ClassName=51单片机24 Member=Component P4 DS18B20
+Added Member To Class: ClassName=51单片机24 Member=Component P5 H1838
+Added Member To Class: ClassName=51单片机24 Member=Component R43 5.1k
+Added Member To Class: ClassName=51单片机24 Member=Component R44 Res2
+Added Member To Class: ClassName=51单片机24 Member=Component R45 Res2
+Added Member To Class: ClassName=51单片机24 Member=Component RW1 Res Tap
+Added Member To Class: ClassName=51单片机24 Member=Component U2 24C04
+Added Room: Name=51单片机24
